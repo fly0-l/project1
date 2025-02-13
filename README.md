@@ -1,5 +1,5 @@
 # zm-Homogeneous Ensemble Deep Learning for Code Smell Detection
-#Overview
+# Overview
 This repository contains the code and datasets required for our research, which focuses on detecting code smells by integrating CNN models using two ensemble strategies. Our study specifically targets the following common types of code smells: God Class, Feature Envy, Data Class, and Long Method. These smell types are chosen as they frequently occur and have been extensively studied in prior research.
 
 # project Structure
